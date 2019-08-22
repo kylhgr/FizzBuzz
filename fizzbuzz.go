@@ -1,7 +1,7 @@
 // coding problem: print number 0 - 100
 // if number is divisile by 3, print fizz
 // if number is divisible by 5, print buzz
-// if numbrt is divisible by 3 and 5, print fizz buzz
+// if number is divisible by 3 and 5, print fizz buzz
 
 package main
 
